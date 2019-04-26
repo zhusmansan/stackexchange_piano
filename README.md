@@ -6,4 +6,6 @@ Use
 ```js
 gradle bootrun
 ```
-to start app
+to start app.
+
+It will be available at  http://localhost:8080
